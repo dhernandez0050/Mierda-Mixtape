@@ -1,0 +1,77 @@
+@font-face {
+font-family: 'Bozon Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Bozon Regular'), url('ROHH  Bozon Regular.woff') format('woff');
+}
+
+body{
+  background-color: black;
+  font-family: 'Bozon Regular', sans-serif;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  color: white;
+  text-align: left;
+}
+
+img{
+  /* max-width:100%; */
+  width:90%;
+  display: block;
+  margin:20px auto;
+  /* Top Right Bottom Left */
+}
+#top{
+  text-align: left;
+  color: white;
+  font-family: 'Bozon Regular', sans-serif;
+}
+
+
+
+  h1{
+    text-align: left;
+    color: white;
+    font-family: 'Bozon Regular', sans-serif;
+    width:90%;
+    display: block;
+    margin:auto;
+  }
+
+  p {
+    width: 300px;
+
+    }
+  p.example {
+    margin: 20px auto 20px auto;
+    text-align: left;
+  }
+
+
+
+h3{
+  width: 300px;
+  text-align: left;
+  margin: 50px auto 50px auto;
+    /* font-size: 1.5em; */
+}
+
+h4{
+  width: 300px;
+  text-align: left;
+  margin: 50px 30px 50px 30px;
+    /* font-size: 1.5em; */
+}
+#songs{
+  text-align: left;
+  color: orange;
+  font-family: 'Bozon Regular', san-serif;
+}
+
+  li{
+
+  }
+a{
+    color:yellow;
+
+}
